@@ -1,6 +1,6 @@
 public class Halo{
 	
 	public void main(String[] args){
-		System.out.printls("Halo All");
+		System.out.print("Halo All");
 	}
 }
